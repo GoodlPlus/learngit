@@ -5,4 +5,4 @@ OK
 This is the dev.
 This is the feature branch
 This is new dev branch
-This is a bug .................
+This is a bug
